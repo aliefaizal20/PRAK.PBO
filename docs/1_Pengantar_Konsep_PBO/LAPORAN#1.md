@@ -2,7 +2,7 @@
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+ID jobsheet-01 Pengantar Konsep PBO
 
 ## Ringkasan Materi
 
@@ -69,7 +69,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+(Saya mengerjakan sendiri dengan semampunya, banyak proses yang gagal dan juga error
 
 ## Pernyataan Diri
 
@@ -79,4 +79,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+Alief Faizal Imansyah
