@@ -16,11 +16,11 @@ Ini kode Project Sepeda
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/sepeda.PNG)
+![contoh screenshot](img/sepeda.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/sepeda.java)
-2. ini kode sepedaDemo
-![contoh screenshot](img/sepedaDemo.PNG)
+2. ini kode sepedaDemo<br>
+![contoh screenshot](img/sepedaDemo.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/sepedaDemo.java)
 
@@ -30,7 +30,7 @@ ini kode sepedaGunung
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/sepedaGunung.PNG)
+![contoh screenshot](img/sepedaGunung.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/sepedaGunung.java)
 
