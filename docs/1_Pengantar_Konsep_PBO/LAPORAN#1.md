@@ -36,7 +36,26 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/sepedaGun
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek!<br>
+    Pemrograman berorientasi objek (Inggris: object-oriented programming disingkat OOP) merupakan paradigma pemrograman berdasarkan konsep "objek", yang dapat berisi data, dalam bentuk field atau dikenal juga sebagai atribut; serta kode, dalam bentuk fungsi/prosedur atau dikenal juga sebagai method. Semua data dan fungsi di dalam paradigma ini dibungkus dalam kelas-kelas atau objek-objek. Bandingkan dengan logika pemrograman terstruktur. Setiap objek dapat menerima pesan, memproses data, dan mengirim pesan ke objek lainnya,
+Model data berorientasi objek dikatakan dapat memberi fleksibilitas yang lebih, kemudahan mengubah program, dan digunakan luas dalam teknik peranti lunak skala besar. Lebih jauh lagi, pendukung OOP mengklaim bahwa OOP lebih mudah dipelajari bagi pemula dibanding dengan pendekatan sebelumnya, dan pendekatan OOP lebih mudah dikembangkan dan dirawat<br>
+aspeknya
+Kelas — kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu.
+Objek - membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer;
+Abstraksi - Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya, yaitu kemampuan untuk memfokus pada inti
+Enkapsulasi - Memastikan pengguna sebuah objek tidak dapat mengganti keadaan dalam dari sebuah objek dengan cara yang tidak layak
+Polimorfisme melalui pengiriman pesan. Tidak bergantung kepada pemanggilan subrutin, bahasa orientasi objek dapat mengirim pesan
+2. Apa yang dimaksud dengan object dan apa bedanya dengan class?<br>
+Objek - membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari modularitas dan struktur dalam sebuah program komputer berorientasi objek.
+3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
+   dengan pemrograman struktural!<br>
+   Cara pandang PBO : Program bukan urut – urutan instruksi tapi diselesaikan oleh objek – objek yang bekerjasama untuk menyelesaikan masalah
+4. Pada class Sepeda, terdapat state/atribut apa saja?<br>
+Pada class Sepeda, terdapat state/atribut ada merek, kecepatan, gear dan warna
+5. Tambahkan atribut warna pada class Sepeda.<br>
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari
+nol?<br>
+6.	karena kita sudah membuat mewariskan class sepeda kepada sepeda gunung
 
 ## Tugas
 
