@@ -1,12 +1,14 @@
-# Laporan Praktikum #2 - Class dan Object
+# Laporan Praktikum #3 - Enkapsulasi
 
 ## Kompetensi
-* Mahasiswa dapat memahami deskripsi dari class dan object
-* Mahasiswa memahami implementasi dari class
-* Mahasiswa dapat memahami implementasi dari attribute
-* Mahasiswa dapat memahami implementasi dari method
-* Mahasiswa dapat memhami implementasi dari proses instansiasi
-* Mahasiswa dapat memahami implementasi dari try-cacth
+Setelah melakukan percobaan pada modul ini, mahasiswa memahami konsep:
+
+1. Konstruktor
+2. Akses Modifier
+3. Atribut/method pada class
+4. Intansiasi atribut/method
+5. Setter dan getter
+6. Memahami notasi pada UML Class Diagram
 
 ## Ringkasan Materi
 
